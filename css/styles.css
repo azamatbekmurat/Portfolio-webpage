@@ -1,6 +1,23 @@
 .top {
   text-align: center;
 }
+
+.top h1 {
+  font-size: 43px;
+  font-style: italic;
+  font-weight: bold;
+  color: #1e60c9;
+}
+
+.top p {
+  margin: 12px;
+  border: 2px solid #034fc6;
+  padding: 20px;
+  background-color: #d0eef2;
+  font-size: 25px;
+  font-style: italic;
+  color: #033482;
+}
 #picture {
   width: 20%;
   height: 20%;
@@ -10,10 +27,28 @@
 }
 
 .main {
-  width: 80%;
-  float: center;
+  width: 50%;
+  float: right;
   padding: 4px;
   margin: 4px;
+}
+
+.main h2{
+  font-size: 40px;
+  font-style: italic;
+  font-weight: bold;
+  color: #80acf2;
+}
+
+.background {
+  width: 50%;
+  float: left;
+}
+
+.background h2{
+  font-size: 40px;
+  font-weight: bold;
+  color: #13c492;
 }
 
 .wikipedia {

@@ -5,7 +5,7 @@
 ### By _**Azamat Bekmuratov**_
 
 ## Description
-_This website provides detailed information about Azamat Bekmuratov's background and projects that he made in Epicodus_
+_This website provides detailed information about my background and projects that I've made in Epicodus_
 
 ## SetUp/Installation Requirements
 * _Clone repository_
