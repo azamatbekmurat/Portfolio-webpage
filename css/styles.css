@@ -38,6 +38,11 @@ body {
   display: block;
 }
 
+#about_me {
+  margin-left: : 200px;
+}
+
+
 .main {
   width: 49%;
   float: left;
