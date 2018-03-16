@@ -1,3 +1,7 @@
+body {
+  background-image: linear-gradient(#edaa63, #f0f2a2, #d2d7dd);
+}
+
 .top {
   text-align: center;
 }
@@ -54,6 +58,7 @@
   font-size: 25px;
   font-style: italic;
   font-weight: bold;
+  padding-top: 12px;
   color: #80acf2;
   text-decoration: underline;
 }
@@ -67,6 +72,7 @@
   font-size: 40px;
   font-style: italic;
   font-weight: bold;
+  padding-top: 20px;
   color: #072dc4;
   text-decoration: inherit;
   text-shadow: 2px 2px 8px #10497f;
@@ -74,6 +80,7 @@
 
 .background h3 {
   font-size: 30px;
+  padding-top: 19px;
   color: #02331c;
   text-shadow: 2px 2px 8px #85ad9a;
 }
@@ -81,8 +88,15 @@
 .background li{
   font-size: 20px;
   font-style: italic;
+  padding-top: 15px;
   color: #1618a0;
   text-shadow: 2px 2px 8px #9890b2;
+}
+
+.background p {
+  font-size: 20px;
+  font-style: italic;
+  padding-top: 15px;
 }
 
 .wikipedia {
