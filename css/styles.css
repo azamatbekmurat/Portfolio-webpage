@@ -85,7 +85,16 @@ body {
   font-style: italic;
   font-weight: bold;
   padding-top: 12px;
-  color: #80acf2;
+  color: #14034f;
+  text-decoration: underline;
+}
+
+.main li a{
+  font-size: 25px;
+  font-style: italic;
+  font-weight: bold;
+  padding-top: 12px;
+  color: #14034f;
   text-decoration: underline;
 }
 
@@ -125,9 +134,70 @@ body {
   padding-top: 15px;
 }
 
-#hobby{
+#proj{
+  background-color: #cbe2f2;
+  font-size: 18px;
+}
+
+#proj_head {
+  font-size: 28px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#bio {
+  background-color: #ceb3c3;
+  font-size: 18px;
+}
+
+#bio_head {
+  font-size: 28px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#hobby {
   background-color: #d1d8c5;
   font-size: 18px;
+}
+
+#hobby_head {
+  font-size: 28px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#epic {
+  background-color: #f2ecd7;
+  font-size: 18px;
+}
+
+#hobby_head {
+  font-size: 28px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#exper {
+  background-color: #f7c274;
+  font-size: 18px;
+}
+
+#exper_head {
+  font-size: 28px;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#edu {
+  background-color: #acc6f9;
+  font-size: 18px;
+}
+
+#edu_head {
+  font-size: 28px;
+  font-weight: bold;
+  font-style: italic;
 }
 
 .wikipedia {
