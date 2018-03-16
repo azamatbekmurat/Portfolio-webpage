@@ -7,6 +7,7 @@
   font-style: italic;
   font-weight: bold;
   color: #1e60c9;
+  text-shadow: 2px 2px 8px #5793cc;
 }
 
 .top p {
@@ -18,6 +19,7 @@
   font-style: italic;
   color: #033482;
 }
+
 #picture {
   width: 20%;
   height: 20%;
@@ -26,9 +28,15 @@
   margin-right: auto;
 }
 
+.images {
+  width: 300px;
+  height: 200px;;
+  display: block;
+}
+
 .main {
-  width: 50%;
-  float: right;
+  width: 49%;
+  float: left;
   padding: 4px;
   margin: 4px;
 }
@@ -37,18 +45,44 @@
   font-size: 40px;
   font-style: italic;
   font-weight: bold;
+  color: #072dc4;
+  text-decoration: inherit;
+  text-shadow: 2px 2px 8px #10497f;
+}
+
+.main li{
+  font-size: 25px;
+  font-style: italic;
+  font-weight: bold;
   color: #80acf2;
+  text-decoration: underline;
 }
 
 .background {
-  width: 50%;
+  width: 49%;
   float: left;
 }
 
 .background h2{
   font-size: 40px;
+  font-style: italic;
   font-weight: bold;
-  color: #13c492;
+  color: #072dc4;
+  text-decoration: inherit;
+  text-shadow: 2px 2px 8px #10497f;
+}
+
+.background h3 {
+  font-size: 30px;
+  color: #02331c;
+  text-shadow: 2px 2px 8px #85ad9a;
+}
+
+.background li{
+  font-size: 20px;
+  font-style: italic;
+  color: #1618a0;
+  text-shadow: 2px 2px 8px #9890b2;
 }
 
 .wikipedia {
