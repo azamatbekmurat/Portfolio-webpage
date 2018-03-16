@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(#edaa63, #f0f2a2, #d2d7dd);
+  background-image: linear-gradient(#f9f2cf, #ddd7aa, #e3e9f2);
 }
 
 .top {
@@ -24,6 +24,7 @@ body {
   color: #033482;
 }
 
+
 #picture {
   width: 20%;
   height: 20%;
@@ -32,14 +33,34 @@ body {
   margin-right: auto;
 }
 
-.images {
-  width: 300px;
-  height: 200px;;
-  display: block;
+#football_image {
+    width: 300px;
+    height: 200px;;
+    display: block;
+}
+
+#epi_img {
+    width: 300px;
+    height: 200px;;
+    display: block;
+}
+
+#swim {
+    width: 300px;
+    height: 200px;;
+    display: block;
+}
+
+#books {
+    width: 300px;
+    height: 200px;;
+    display: block;
 }
 
 #about_me {
-  margin-left: : 200px;
+  width: 300px;
+  height: 200px;;
+  display: block;
 }
 
 
@@ -102,6 +123,11 @@ body {
   font-size: 20px;
   font-style: italic;
   padding-top: 15px;
+}
+
+#hobby{
+  background-color: #d1d8c5;
+  font-size: 18px;
 }
 
 .wikipedia {

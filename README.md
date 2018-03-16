@@ -17,5 +17,5 @@ _This website provides detailed information about my background and projects tha
 * Bootstrap
 
 ### License
-Copyright (c) 2018 Azamat Bekmuratov
+Copyright (c) 2018 Azamat Bekmuratov.
 This software is licensed under the GPL license.
